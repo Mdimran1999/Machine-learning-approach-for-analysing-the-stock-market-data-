@@ -17,4 +17,6 @@ Goals include identifying candlestick patterns, interpreting financial indicator
 developing machine learning classifiers for predicting intraday stock patterns. By
 empowering market participants with actionable insights from sophisticated data analysis
 techniques, this research contributes to understanding financial market complexities and
-facilitating informed decision-making
+facilitating informed decision-making.
+
+
