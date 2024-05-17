@@ -18,5 +18,5 @@ developing machine learning classifiers for predicting intraday stock patterns. 
 empowering market participants with actionable insights from sophisticated data analysis
 techniques, this research contributes to understanding financial market complexities and
 facilitating informed decision-making.
-
+#hiii
 
