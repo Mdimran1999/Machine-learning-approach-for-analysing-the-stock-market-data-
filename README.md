@@ -1,4 +1,5 @@
 # Machine-learning-approach-for-analysing-the-stock-market-data-
+ description of work : 
 The financial market sector is characterized by complexity, volatility, and continual
 evolution, prompting investors and traders to seek effective tools for gaining insights,
 identifying opportunities, and managing risks. Technical analysis, focusing on historical price
@@ -18,5 +19,6 @@ developing machine learning classifiers for predicting intraday stock patterns. 
 empowering market participants with actionable insights from sophisticated data analysis
 techniques, this research contributes to understanding financial market complexities and
 facilitating informed decision-making.
-#hiii
 
+publication too be cummunicated:  1) The 6th CINE-2024,December 19-21,2024 KIIT Deemend to be university , India.
+                                  2) IEEE kolkata section, calcon 2024. 
